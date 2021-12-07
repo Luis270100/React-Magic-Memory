@@ -1,3 +1,3 @@
-#React Magic Memory
+## React Magic Memory
 
 React.js memory game 
